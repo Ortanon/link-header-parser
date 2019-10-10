@@ -3,11 +3,10 @@
   "version": "1.1.0",
   "description": "A vanilla ES2015 adaptation of the parse-link-header npm package",
   "main": "index.js",
-  "dependencies": {
+  "devDependencies": {
     "esm": "^3.2.25",
     "jest": "^24.9.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "jest --silent --verbose --noStackTrace --coverage"
   },
